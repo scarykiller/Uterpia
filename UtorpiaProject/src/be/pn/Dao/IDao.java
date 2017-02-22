@@ -1,4 +1,4 @@
-package be.pn;
+package be.pn.Dao;
 
 public interface IDao {
 
